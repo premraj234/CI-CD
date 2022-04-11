@@ -19,5 +19,9 @@
   "homepage": "https://github.com/premraj234/CI-CD#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "build": "^0.1.4",
+    "parcel-bundler": "^1.12.5"
   }
 }
