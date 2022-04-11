@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["add","a","b","module","exports"],"mappings":";AAAA,SAASA,EAAIC,EAAEC,GACJD,OAAAA,EAAEC,EAEbC,OAAOC,QAAQJ","file":"CI-CD.dfeb561f.js","sourceRoot":"..","sourcesContent":["function add(a,b){\n    return a+b\n}\nmodule.exports=add"]}
